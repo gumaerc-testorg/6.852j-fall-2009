@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9419cc1a-8cb6-0caa-1994-57fe90cae803
 resourcetype: Document
 title: Errata for the Fourth Printing
 uid: f6ec6a72-ce07-2257-3b3c-d087cfbecafb

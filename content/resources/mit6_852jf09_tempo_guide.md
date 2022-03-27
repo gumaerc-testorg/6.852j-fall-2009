@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 0da48dce-2322-7545-e627-49a6d0a030be
 resourcetype: Document
 title: The Tempo Language User Guide and Reference Manual
 uid: 7e5a76b4-0eff-76c8-2e41-4e8e96ccecdf

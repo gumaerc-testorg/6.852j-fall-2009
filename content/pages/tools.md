@@ -24,6 +24,7 @@ When specified by the problem set, you will be required to write your distribute
 
 Windows, Mac, and Linux versions of the toolkit can be found at [VeroModo](http://www.veromodo.com/). We recommend that you download the version including the Eclipse-based user interface. For this to work, you must have Java version 1.5 or better. The latest versions of Java can be downloaded [here](http://www.java.com/en/download/index.jsp).
 
-Within the install directories see doc/Tempo\_Guide.pdf for an overview of both the TIOA formalism and the Tempo language. The same file is also available here:
+Within the install directories see `doc/Tempo\_Guide.pdf`
+ for an overview of both the TIOA formalism and the Tempo language. The same file is also available here:
 
 The Tempo Language User Guide and Reference Manual ([PDF - 1.0MB]({{< baseurl >}}/resources/mit6_852jf09_tempo_guide)) (Courtesy of Nancy Lynch, Stephen J. Garland, Dilsun Kaynar, Laurent Michel, and Alex Shvartsman. Used with permission.) Section 3 provides some toy examples of TIOA algorithms implemented in Tempo.
