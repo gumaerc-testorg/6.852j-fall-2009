@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, texts, requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -43,7 +45,7 @@ The primary source will be the book _Distributed Algorithms_ by Prof. Nancy Lync
 
 Lynch, Nancy. _Distributed Algorithms_. Burlington, MA: Morgan Kaufmann, 1996. ISBN:9781558603486.
 
-Errata ([PDF]({{< baseurl >}}/resources/mit6_852jf09_errata))
+Errata ({{% resource_link f6ec6a72-ce07-2257-3b3c-d087cfbecafb "PDF" %}})
 
 This book has gone through many printings, but we have made no changes since the fourth printing, so fourth printings or later are just fine. Known errata for early printings are collected in errata lists. The book refers to many papers from the research literature on distributed algorithms; you might want to track down and read some of these.
 
@@ -71,7 +73,7 @@ Kaynar, Disun, Nancy Lynch, Roberto Segala, and Frits Vaandrager. _The Theory of
 
 This monograph presents a basic modeling framework, Timed I/O Automata (TIOA), for describing and analyzing distributed algorithms.
 
-In addition, some research papers that are not covered in the textbook will be covered in class and on problem sets. These papers are listed in the [Readings]({{< baseurl >}}/pages/readings) as supplementary readings.
+In addition, some research papers that are not covered in the textbook will be covered in class and on problem sets. These papers are listed in the {{% resource_link 9419cc1a-8cb6-0caa-1994-57fe90cae803 "Readings" %}} as supplementary readings.
 
 Course Requirements
 -------------------
