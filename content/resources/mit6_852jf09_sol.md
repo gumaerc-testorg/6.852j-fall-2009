@@ -5,6 +5,7 @@ file: /courses/6-852j-distributed-algorithms-fall-2009/f0b7bc5ec739ba2875ced16a3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Solution Template
 uid: f0b7bc5e-c739-ba28-75ce-d16a33a05300
 ---
 Solution template for the problem sets assigned for the course.
-

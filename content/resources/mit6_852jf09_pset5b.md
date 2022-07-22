@@ -5,6 +5,7 @@ file: /courses/6-852j-distributed-algorithms-fall-2009/abe255cde10f5935af6af027a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 5, Part b
 uid: abe255cd-e10f-5935-af6a-f027a250eb59
 ---
 Problem set on distributed algorithms.
-

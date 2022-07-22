@@ -6,6 +6,7 @@ file: /courses/6-852j-distributed-algorithms-fall-2009/1ed507ee1001ec6f9d0a332ea
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Problem Set 1, Part b
 uid: 1ed507ee-1001-ec6f-9d0a-332ea250594e
 ---
 Problem set on distributed algorithms, comparison-based algorithms in bidirectional rings with UIDs, the Shortest Paths problem, and SynchGHS.
-
