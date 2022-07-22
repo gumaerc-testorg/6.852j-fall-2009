@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with the associated
+  lecture presentations.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f492f5bb-8d3c-f429-82c3-260e683f5f34
 ---
@@ -30,7 +35,7 @@ LECTURE NOTES
 Course overview. Synchronous networks. Leader election in synchronous ring networks.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec01))
+({{% resource_link 77a61f83-06aa-20cb-d64a-022a08864526 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Course overview. Synchronous networks. Leader election in synchronous ring netwo
 Leader election in rings. Basic computational tasks in general synchronous networks: leader election. Breadth-first search. Broadcast and convergecast. Shortest paths.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec02))
+({{% resource_link ff326c13-2144-215d-730d-986494cc6ac6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Leader election in rings. Basic computational tasks in general synchronous netwo
 Spanning trees. Minimum spanning trees.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec03))
+({{% resource_link 203e61d3-2dfa-d9ba-4279-f269f1e4595b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Spanning trees. Minimum spanning trees.
 Fault-tolerant consensus. Link failures: the two generals problem. Process failures (stopping, Byzantine). Algorithms for agreement with stopping and Byzantine failures. Exponential information gathering.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec04))
+({{% resource_link c7d84af0-0dee-6d54-8c95-9b4dfc418614 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Fault-tolerant consensus. Link failures: the two generals problem. Process failu
 Number-of-processor bounds for Byzantine agreement. Weak Byzantine agreement. Time bounds for consensus problems.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec05))
+({{% resource_link 0d1d84b9-fd1e-74bf-8e2f-8ad916cfca0d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Number-of-processor bounds for Byzantine agreement. Weak Byzantine agreement. Ti
 _k_\-set-agreement. Approximate agreement. Distributed commit.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec06))
+({{% resource_link 0628b221-25dc-0598-ad8b-1f27422a4f2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ _k_\-set-agreement. Approximate agreement. Distributed commit.
 Asynchronous distributed computing. Formal modeling of asynchronous systems using interacting state machines (I/O automata). Proving correctness of distributed algorithms.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec07))
+({{% resource_link 666ea5c2-d621-cd26-c6ba-df37a750d290 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Asynchronous distributed computing. Formal modeling of asynchronous systems usin
 Non-fault-tolerant algorithms for asynchronous networks. Leader election, breadth-first search, shortest paths, broadcast and convergecast.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec08))
+({{% resource_link f1027d3f-e91b-a65a-9e77-e8f5695e2b3f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Non-fault-tolerant algorithms for asynchronous networks. Leader election, breadt
 Spanning trees. Gallager _et al_. minimum spanning trees.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec09))
+({{% resource_link 269e879b-44c6-0a69-9f32-f129f2a67779 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +143,7 @@ Spanning trees. Gallager _et al_. minimum spanning trees.
 Synchronizers. Synchronizer applications. Synchronous vs. asynchronous distributed systems.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec10))
+({{% resource_link fd605e3c-7001-9555-62a6-2971e27a2246 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Synchronizers. Synchronizer applications. Synchronous vs. asynchronous distribut
 Time, clocks, and the ordering of events. State-machine simulation. Vector timestamps.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec11))
+({{% resource_link b1eb7ebe-942a-5b8d-c54d-142cf78ac880 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +167,7 @@ Time, clocks, and the ordering of events. State-machine simulation. Vector times
 Stable property detection. Distributed termination. Global snapshots. Deadlock detection.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec12))
+({{% resource_link d72e861c-b207-400c-3496-d81bdabd3f0e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Stable property detection. Distributed termination. Global snapshots. Deadlock d
 Asynchronous shared-memory systems. The mutual exclusion problem. Mutual exclusion algorithms.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec13))
+({{% resource_link b4777ca3-40b7-2ac9-c8a0-8b5cf0bea421 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Asynchronous shared-memory systems. The mutual exclusion problem. Mutual exclusi
 More mutual exclusion algorithms. Bounds on shared memory for mutual exclusion. Resource allocation. The Dining Philosophers problem.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec14))
+({{% resource_link 8a44b467-137c-d608-29a7-043934fca8d0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ More mutual exclusion algorithms. Bounds on shared memory for mutual exclusion. 
 Shared-memory multiprocessors. Contention, caching, locality. Practical mutual exclusion algorithms. Reading/writing locks.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec15))
+({{% resource_link 252d137e-cbb1-20b4-85e3-c43c7ac0130e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +215,7 @@ Shared-memory multiprocessors. Contention, caching, locality. Practical mutual e
 Impossibility of consensus in asynchronous, fault-prone, shared-memory systems.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec16))
+({{% resource_link 239990c7-7dca-5599-8211-14ed1fafae18 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +227,7 @@ Impossibility of consensus in asynchronous, fault-prone, shared-memory systems.
 Atomic objects
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec17))
+({{% resource_link 60367f35-e190-0b6b-1038-226517555078 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +239,7 @@ Atomic objects
 Atomic snapshot algorithms. Atomic read/write register algorithms.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec18))
+({{% resource_link bcf2ad7e-0211-851c-0dd9-3e54db238ef8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +251,7 @@ Atomic snapshot algorithms. Atomic read/write register algorithms.
 List algorithms: locking algorithms, optimistic algorithms, lock-free algorithms, lazy algorithms.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec19))
+({{% resource_link b41f239d-ccec-c8b4-7896-ceef65c1dd07 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +263,7 @@ List algorithms: locking algorithms, optimistic algorithms, lock-free algorithms
 Transactional memory: obstruction-free and lock-based implementations.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec20))
+({{% resource_link a2204831-7189-7e1f-fe7c-8bd0627a000d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +275,7 @@ Transactional memory: obstruction-free and lock-based implementations.
 Wait-free computability. The wait-free consensus hierarchy.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec21))
+({{% resource_link 9e4ffc28-7492-8cdc-13db-80bb80b7723f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +287,7 @@ Wait-free computability. The wait-free consensus hierarchy.
 Wait-free vs. _f_\-fault-tolerant atomic objects. Boosting fault-tolerance.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec22))
+({{% resource_link 31c970b9-77ec-6fb0-49b7-5bf7300706ee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +299,7 @@ Wait-free vs. _f_\-fault-tolerant atomic objects. Boosting fault-tolerance.
 Asynchronous network model vs. asynchronous shared-memory model. Impossibility of consensus in asynchronous networks. Failure detectors and consensus. Paxos consensus algorithm.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec23))
+({{% resource_link fd6cf241-ddfb-8ba2-1a9d-b8b44b1265c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +311,7 @@ Asynchronous network model vs. asynchronous shared-memory model. Impossibility o
 Self-stabilizing algorithms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec24))
+({{% resource_link ce70577c-789a-911b-eb08-df90de543256 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +323,7 @@ Self-stabilizing algorithms
 Timing-based systems. Modeling and verification. Timing-based algorithms for mutual exclusion and consensus. Clock synchronization.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_852jf09_lec25))
+({{% resource_link f7930f28-5cf7-124c-2b2c-478eafd0584a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

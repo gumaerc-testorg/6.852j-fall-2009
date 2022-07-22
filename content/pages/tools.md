@@ -1,11 +1,16 @@
 ---
 content_type: page
+description: This section provides guidelines on using the Tempo Toolkit, a collection
+  of tools to simplify the process of developing and validating Input/Output Automata
+  (IOA) systems.
+draft: false
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: 0da48dce-2322-7545-e627-49a6d0a030be
 ---
-
-The Tempo Toolkit
------------------
+## The Tempo Toolkit
 
 ### Tempo Basics
 
@@ -21,6 +26,6 @@ When specified by the problem set, you will be required to write your distribute
 
 Windows, Mac, and Linux versions of the toolkit can be found at [VeroModo](http://www.veromodo.com/). We recommend that you download the version including the Eclipse-based user interface. For this to work, you must have Java version 1.5 or better. The latest versions of Java can be downloaded [here](http://www.java.com/en/download/index.jsp).
 
-Within the install directories see doc/Tempo\_Guide.pdf for an overview of both the TIOA formalism and the Tempo language. The same file is also available here:
+Within the install directories see `doc/Tempo_Guide.pdf` for an overview of both the TIOA formalism and the Tempo language. The same file is also available here:
 
-The Tempo Language User Guide and Reference Manual ([PDF - 1.0MB]({{< baseurl >}}/resources/mit6_852jf09_tempo_guide)) (Courtesy of Nancy Lynch, Stephen J. Garland, Dilsun Kaynar, Laurent Michel, and Alex Shvartsman. Used with permission.) Section 3 provides some toy examples of TIOA algorithms implemented in Tempo.
+The Tempo Language User Guide and Reference Manual ({{% resource_link 7e5a76b4-0eff-76c8-2e41-4e8e96ccecdf "PDF - 1.0MB" %}}) (Courtesy of Nancy Lynch, Stephen J. Garland, Dilsun Kaynar, Laurent Michel, and Alex Shvartsman. Used with permission.) Section 3 provides some toy examples of TIOA algorithms implemented in Tempo.
