@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on distributed algorithms.
 file: /courses/6-852j-distributed-algorithms-fall-2009/abe255cde10f5935af6af027a250eb59_MIT6_852JF09_pset5b.pdf
+file_size: 51285
 file_type: application/pdf
 learning_resource_types:
 - Assignments
