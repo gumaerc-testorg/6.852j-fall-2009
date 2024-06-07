@@ -3,6 +3,7 @@ content_type: resource
 description: User guide and reference manual for the Tempo Toolkit, a collection of
   tools to simplify the process of developing and validating IOA systems.
 file: /courses/6-852j-distributed-algorithms-fall-2009/7e5a76b40eff76c82e414e8e96ccecdf_MIT6_852JF09_tempo_guide.pdf
+file_size: 1078973
 file_type: application/pdf
 learning_resource_types:
 - Tools
