@@ -4,6 +4,7 @@ description: Problem set on distributed algorithms, the LCR algorithm, the HS al
   a unidirectional leader-election algorithm, and the problem of electing a leader
   in a synchronous ring of known size.
 file: /courses/6-852j-distributed-algorithms-fall-2009/ee230e9ef0b810a4b14888bc1340d0d9_MIT6_852JF09_pset1a.pdf
+file_size: 96526
 file_type: application/pdf
 learning_resource_types:
 - Assignments

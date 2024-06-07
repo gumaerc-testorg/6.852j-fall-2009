@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution template for the problem sets assigned for the course.
 file: /courses/6-852j-distributed-algorithms-fall-2009/f0b7bc5ec739ba2875ced16a33a05300_MIT6_852JF09_sol.pdf
+file_size: 35860
 file_type: application/pdf
 learning_resource_types:
 - Assignments

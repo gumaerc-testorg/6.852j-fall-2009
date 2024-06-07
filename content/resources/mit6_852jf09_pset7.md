@@ -4,6 +4,7 @@ description: 'Problem set on distributed algorithms, simulated processes, the ap
   agreement problem, fault tolerant atomic objects, the Paxos consensus algorithm,
   and the problem of establishing and maintaining a shortest-paths tree. '
 file: /courses/6-852j-distributed-algorithms-fall-2009/68f99db0e6d5e887dee5b2e899a0888a_MIT6_852JF09_pset7.pdf
+file_size: 83106
 file_type: application/pdf
 learning_resource_types:
 - Assignments
