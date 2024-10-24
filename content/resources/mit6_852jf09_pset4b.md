@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on distributed algorithms.
-file: /courses/6-852j-distributed-algorithms-fall-2009/b02f9e1f74eb6d60215a60076df968f3_MIT6_852JF09_pset4b.pdf
+file: /ol-ocw-studio-app/courses/6-852j-distributed-algorithms-fall-2009/b02f9e1f74eb6d60215a60076df968f3_MIT6_852JF09_pset4b.pdf
 file_size: 53434
 file_type: application/pdf
 learning_resource_types:
