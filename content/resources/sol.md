@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution template for the problem sets assigned for the course.
-file: /ol-ocw-studio-app/courses/6-852j-distributed-algorithms-fall-2009/7097f0cb876168e94df33eb986ac4ab1_sol.tex
+file: /courses/6-852j-distributed-algorithms-fall-2009/7097f0cb876168e94df33eb986ac4ab1_sol.tex
 file_size: 742
 file_type: text/x-tex
 learning_resource_types:
