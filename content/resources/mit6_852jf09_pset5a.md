@@ -2,7 +2,7 @@
 content_type: resource
 description: "Problem set on distributed algorithms, Anderson\u2019s array algorithm\
   \ Mellor-Crummey and Scott\u2019s MCS algorithm, and shared variables in Tempo."
-file: /courses/6-852j-distributed-algorithms-fall-2009/9bd7a7c8532684eac7e37ca5fbc9169c_MIT6_852JF09_pset5a.pdf
+file: /ol-ocw-studio-app/courses/6-852j-distributed-algorithms-fall-2009/9bd7a7c8532684eac7e37ca5fbc9169c_MIT6_852JF09_pset5a.pdf
 file_size: 78075
 file_type: application/pdf
 learning_resource_types:
