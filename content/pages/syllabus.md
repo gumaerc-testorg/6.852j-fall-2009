@@ -61,7 +61,7 @@ Guerraoui, Rachid, and Michal Kapalka. *Transactional Memory*: *The Theory.* San
 
 This monograph presents basic theoretical results about the possibility and costs of implementing transactional memory for shared-memory multiprocessors.
 
-{{% resource_link "2e06140a-b95e-438e-8f6c-6431738327ed" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Dolev, Shlomi. *Self-Stabilization*. Cambridge, MA: MIT Press, 2000. ISBN:9780262041782.
+[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262041782) Dolev, Shlomi. *Self-Stabilization*. Cambridge, MA: MIT Press, 2000. ISBN:9780262041782.
 
 This book gives a good description of self-stabilizing distributed algorithms. Self-stabilization is a strong kind of fault-tolerance, which we will study near the end of the course.
 
