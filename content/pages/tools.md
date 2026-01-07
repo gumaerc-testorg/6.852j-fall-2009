@@ -24,7 +24,7 @@ When specified by the problem set, you will be required to write your distribute
 
 ### Installing the Tempo Toolkit
 
-Windows, Mac, and Linux versions of the toolkit could previously be found at VeroModo. We recommend that you download the version including the Eclipse-based user interface. For this to work, you must have Java version 1.5 or better. The latest versions of Java can be downloaded {{% resource_link "bd5501f4-ef1f-4f34-b10b-9810f6d65f73" "here" %}}.
+Windows, Mac, and Linux versions of the toolkit could previously be found at VeroModo. We recommend that you download the version including the Eclipse-based user interface. For this to work, you must have Java version 1.5 or better. The latest versions of Java can be downloaded [here](http://www.java.com/en/download/index.jsp).
 
 Within the install directories see `doc/Tempo_Guide.pdf` for an overview of both the TIOA formalism and the Tempo language. The same file is also available here:
 

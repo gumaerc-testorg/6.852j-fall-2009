@@ -91,7 +91,7 @@ Aguilera, Marcos Kawazoe, and Sam Toueg. "A Simple Bivalency Proof that *t*\-Res
 
 ### Optional
 
-Keidar, Idit, and Sergio Rajsbaum. "{{% resource_link "98fae2da-1127-4305-95fb-1826291886a1" "A Simple Proof of the Uniform Consensus Synchronous Lower Bound" %}}." *Information Processing Letters* 85, no. 1 (January 2003): 47-52.
+Keidar, Idit, and Sergio Rajsbaum. "[A Simple Proof of the Uniform Consensus Synchronous Lower Bound](http://webee.technion.ac.il/~idish/Abstracts/uniform-bound.html)." *Information Processing Letters* 85, no. 1 (January 2003): 47-52.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -135,7 +135,7 @@ Time, clocks, and the ordering of events. State-machine simulation. Vector times
 
 \[Lynch\] Chapter 18.
 
-Lamport, Leslie. "Time, Clocks, and the Ordering of Events in a Distributed System." *Communications of the Association for Computing Machinery* 21, no. 7 (July 1978): 558-565. ({{% resource_link "c4040303-babb-483c-a15e-4f8d3dae64b4" "PDF" %}})
+Lamport, Leslie. "Time, Clocks, and the Ordering of Events in a Distributed System." *Communications of the Association for Computing Machinery* 21, no. 7 (July 1978): 558-565. ([PDF](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf))
 
 Mattern, Friedemann. "Virtual Time and Global States of Distributed Systems." In *Parallel and Distributed Algorithms: Proceedings of the International Workshop on Parallel and Distributed Algorithms (Chateau de Bonas, Gers, France, October, 1988)*. Edited by Michel Cosnard, et al. Amsterdam, The Netherlands: North Holland, 1989, 215-226. ISBN: 9780444873675. Reprint, Yang, Zhonghua, and T. Anthony Marsland, eds. "Virtual Time and Global States of Distributed Systems." *In Global States and Time in Distributed Systems*. Los Alamitos, CA: IEEE Computer Society Press, 1994, pp. 123-133. ISBN: 9780818653001.
 
@@ -275,7 +275,7 @@ In each of the years 2000-2009, a prize has been awarded to a research paper tha
 
 We will study the key contributions of most of these papers during this semester. In case you want to read the original papers for yourselves, here is a list:
 
-Lamport, Leslie. "Time, Clocks, and the Ordering of Events in a Distributed System." *Communications of the Association for Computing Machinery* 21, no. 7 (July 1978): 558-565. ({{% resource_link "c4040303-babb-483c-a15e-4f8d3dae64b4" "PDF" %}})
+Lamport, Leslie. "Time, Clocks, and the Ordering of Events in a Distributed System." *Communications of the Association for Computing Machinery* 21, no. 7 (July 1978): 558-565. ([PDF](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf))
 
 Fischer, Michael J., Nancy A. Lynch, and Michael S. Paterson. "Impossibility of Distributed Consensus with One Faulty Process." *Journal of the Association for Computing Machinery* 32, no. 2 (April 1985): 374-382.
 
@@ -285,7 +285,7 @@ Herlihy, Maurice. "Wait-Free Synchronization." *ACM Transactions on Programming 
 
 Gallager, R. G., P. A. Humblet, and P. M. Spira. "A Distributed Algorithm for Minimum-Weight Spanning Trees." *ACM Transactions on Programming Languages and Systems* 5, no. 1 (January 1983): 66-77.
 
-Pease, M., R. Shostak, and L. Lamport. "Reaching Agreement in the Presence of Faults." *Journal of the Association for Computing Machinery* 27, no. 2 (April 1980): 228-234. ({{% resource_link "7b3ca6cb-c21d-495c-9b68-2121682367fa" "PDF" %}})
+Pease, M., R. Shostak, and L. Lamport. "Reaching Agreement in the Presence of Faults." *Journal of the Association for Computing Machinery* 27, no. 2 (April 1980): 228-234. ([PDF](http://research.microsoft.com/en-us/um/people/lamport/pubs/reaching.pdf))
 
 Mellor-Crummey, John M., and Michael L. Scott. "Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors." *ACM Transactions on Computer Systems* 9, no. 1 (February 1991): 21-65.
 
@@ -301,7 +301,7 @@ Synchronous networks
 
 Aguilera, Marcos Kawazoe, and Sam Toueg. "A Simple Bivalency Proof that *t*\-Resilient Consensus Requires *t*+1 Rounds." *Information Processing Letters* 71, nos. 3-4 (August 1999): 155-158.
 
-Keidar, Idit, and Sergio Rajsbaum. "{{% resource_link "98fae2da-1127-4305-95fb-1826291886a1" "A Simple Proof of the Uniform Consensus Synchronous Lower Bound" %}}." *Information Processing Letters* 85, no. 1 (January 2003): 47-52.
+Keidar, Idit, and Sergio Rajsbaum. "[A Simple Proof of the Uniform Consensus Synchronous Lower Bound](http://webee.technion.ac.il/~idish/Abstracts/uniform-bound.html)." *Information Processing Letters* 85, no. 1 (January 2003): 47-52.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Asynchronous networks
